@@ -1,9 +1,11 @@
 import LocationOnIcon from '@mui/icons-material/LocationOn';
+import ComputerIcon from '@mui/icons-material/Computer';
 export const links = [
     {
       title: 'My Dashboard',
       links: [
       ],
+      icon: <ComputerIcon />
     },{
       title: 'Andheri',
       links: [
