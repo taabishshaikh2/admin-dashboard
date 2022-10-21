@@ -1,0 +1,35 @@
+
+
+.sideBar{
+    border: 1px solid black;
+    width: 250px;
+    height: 100vh;
+    margin: 2px;
+    background-color: white;
+   
+}
+.upperpart{
+    border: 1px solid black;
+   
+    
+    height: 250px;
+}
+.title{
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+h5{
+    text-align: center;
+}
+.img-div{
+    border: 1px solid black;
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    text-align: center;
+    margin: auto;
+    
+}
+
